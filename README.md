@@ -1,5 +1,7 @@
 # Monitoreo de directorio
 
+-- Archivo principal: 'main.py'.
+
 ## Descripcion
 
 -- Este proyecto esta diseñado para monitorear un directorio en busca de cambios en los archivos.
